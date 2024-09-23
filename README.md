@@ -155,11 +155,11 @@ Replace `your_database_name`, `your_username`, and `your_password` with your act
 src
 ├── main
 │   ├── java
-│   │   └── com.example.categoryproductmanagement
+│   │   └── com.example.demo
 │   │       ├── controller
 │   │       │   ├── CategoryController.java
 │   │       │   ├── ProductController.java
-│   │       ├── entity
+│   │       ├── model
 │   │       │   ├── Category.java
 │   │       │   ├── Product.java
 │   │       ├── repository
@@ -167,7 +167,10 @@ src
 │   │       │   ├── ProductRepository.java
 │   │       ├── service
 │   │       │   ├── CategoryService.java
+|   |       |   |── CategoryServiceImpl.java
 │   │       │   ├── ProductService.java
+|   |       |   |── ProductServiceImpl.java
+|   |       |── DemoApplication.java
 │   ├── resources
 │   │   ├── application.properties
 └─── pom.xml
