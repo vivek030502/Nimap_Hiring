@@ -174,6 +174,11 @@ src
 ```
 ## ER - Diagram
 
+![ER - Diagram](./assets/ER_diag.jpg)
+---
+## Video
+
+[Click here to watch the video](https://drive.google.com/file/d/1d5i-zVo0vZAUpfkqRzdRCK9KeE1Ec9xC/view?usp=sharing)
 
 ---
 ## Future Enhancements
